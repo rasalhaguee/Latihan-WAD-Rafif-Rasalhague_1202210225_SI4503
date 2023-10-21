@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/embossed-diamond.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue;
+}
